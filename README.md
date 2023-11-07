@@ -4,6 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Teste WhatsMenu
 
-URL de acesso: [http://safe-glove.surge.sh/]
+URL de acesso: http://safe-glove.surge.sh/
 Samara Martins Oliveira
 2023
